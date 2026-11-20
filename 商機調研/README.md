@@ -16,5 +16,4 @@ J.J. 隨手丟資訊，Claude 負責整理到這裡，下次對話可以接著�
 | [99-點子收件匣.md](99-點子收件匣.md) | 還沒歸類的點子，先放這裡 | 持續更新 |
 
 ## 新對話怎麼接著做
-筆記存在 GitHub 的 `claude/video-analysis-research-m4hzcj` 分支。
-開新對話時說：「先讀 claude/video-analysis-research-m4hzcj 分支的商機調研資料夾」。
+開新對話時說：「讀商機調研」。
